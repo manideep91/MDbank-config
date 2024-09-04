@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MDbank cards related prod APIs "
+  message: "Welcome to MDbank new changes "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
