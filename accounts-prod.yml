@@ -2,7 +2,7 @@ build:
   version: "5.0"
 
 accounts:
-  message: "Welcome to MDbank made changes"
+  message: "Welcome"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
